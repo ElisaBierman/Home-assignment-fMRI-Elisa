@@ -5,7 +5,7 @@ Project Title: Programming for Psychologist, Meta-analysis of FMRI data on bipol
 
 Name: Elisa Bierman
 
-Date of Completion: 03-12-2025
+Date of Completion: 04-12-2025
 
 Link to data: https://neurosynth.org/analyses/terms/bipolar%20disorder/
 
